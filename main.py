@@ -10,3 +10,8 @@ for i in zakupy:
 
 items = [len(x) for x in zakupy.values()]
 print(f"W sumie kupuje {sum(items)} produktow")
+
+
+
+
+print("Commit 1")
