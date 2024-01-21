@@ -6,4 +6,4 @@ zakupy = {
 
 print("Lista zakupow")
 for i in zakupy:
-    print(f"Ide do {i}, kupuje tu nastepujace rzeczy {zakupy[i]}")
+    print(f"Ide do {i.capitalize()}, kupuje tu nastepujace rzeczy {str(zakupy[i]).title()}")
