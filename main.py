@@ -14,4 +14,4 @@ print(f"W sumie kupuje {sum(items)} produktow")
 
 
 
-print("Commit 1")
+print("Commit 1 jak i rowniez Commit 2")
